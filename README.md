@@ -12,6 +12,12 @@ To ensure accurate and relevant responses, the GPT guides users through a step-b
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
+<br>
+[Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
+<br>
+[Health](https://github.com/sourceduty/Health)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
